@@ -6,7 +6,7 @@ cnpm install myproject81-3
 
 
 
-#### 你想直到张朕长什么样子嘛？
+#### 你想知道张朕长什么样子嘛？
 
 ![张朕本人图像](https://www.qqscb.com/uploads/allimg/180707/2-1PFH24518-50.jpg)
 
